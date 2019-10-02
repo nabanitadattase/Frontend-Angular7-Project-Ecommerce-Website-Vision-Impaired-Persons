@@ -10,7 +10,7 @@ WorkFlow:
 
 - This site is fully Voice-Controlled. Anyone can buy product using the narrated instructions. For example, to go to product page it is needed to press "CTRL", and then say "PRODUCT" it will go to product page. To listen about a specific item, it needs to press "CTRL" and then the say "PRODUCT NAME". 
 
-N.B. Please pronounce correctly, and pronounce slowly.
+N.B. Please pronounce correctly, and speak slowly.
 
 Technologies & Tools used during development:
 
