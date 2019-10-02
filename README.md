@@ -1,21 +1,25 @@
-SUPERNOVA
+# Responsive Online Shop Portal for visually impaired person-Frontend-Project
 
-Responsive Online Shop Portal for visually impaired person
+Responsive Online Shop Portal for visually impaired person (Angular 7, Html, Css, BootStrap 4, Multiple Rest API, Responsive web Design, Firebase Database)Frontend Project:
 
-GOAL OF THIS PROJECT
+Live-Version https: https://dazzling-mclean-aac0dc.netlify.com/
 
-The goal of this project is visually impaired persons can buy products without the help of others.
+About: The goal of this project is visually impaired persons can buy products without the help of others.
 
-HOW TO USE This SITE
+WorkFlow: 
 
-This site is fully Voice-Controlled. Anyone can buy product by following the narrated instructions. For example, to listen "Available Products", it is needed to press "P", and then it will start to nerrate products names and prices. To listen about an specific item, it needs to press "Ctrl" and then the product "title". N.B. Please pronounce correctly, and pronounce slowly.
+- This site is fully Voice-Controlled. Anyone can buy product using the narrated instructions. For example, to go to product page it is needed to press "CTRL", and then say "PRODUCT" it will go to product page. To listen about a specific item, it needs to press "CTRL" and then the say "PRODUCT NAME". 
 
-WHAT IS BEHIND THE SCENE
+N.B. Please pronounce correctly, and pronounce slowly.
 
-FRONTEND:
+Technologies & Tools used during development:
 
-The project is built on Angular 7, HTML, CSS, Bootstrap 4. Use Firebase for user Login and Registrations authentication. CMS is used to display the products. Uploaded products data to a CMS site, and it generated an API. To convert Text to Speech & Speech to Text, used SpeechSynthesis & SpeechRecognition API.
+Front-end: Angular 7, HTML, CSS, Bootstrap 4, CMS is used to display the products. Uploaded products data to a CMS site and it generated an API. To convert Text to Speech & Speech to Text, used SpeechSynthesis & SpeechRecognition API.
 
-HOW TO RUN
+Database: Firebase for user Login and Registrations authentication.
 
-This project was generated with Angular CLI version 7.3.6. Run ng serve for a dev server. Navigate to http://localhost:4200/ for local machine.
+Tool: Visual Studio code, GitBash, Rest API testing tool - postman, Chrome developer tool.
+
+Browser: Google chrome
+
+Operating System: Window 7
